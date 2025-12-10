@@ -7,3 +7,6 @@ It includes the final code, dataset, and experiment results used for the team pr
 1. Open the code in Google Colab  
 2. Upload the dataset (youtube_videos_big.csv)  
 3. Run all cells from top to bottom  
+## Model Overview
+- Baseline: TF-IDF + Logistic Regression  
+- Improved Model: Multilingual BERT with oversampling  
