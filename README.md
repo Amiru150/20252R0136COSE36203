@@ -23,3 +23,10 @@ Required libraries:
 ## Project Purpose
 This project aims to build an automatic YouTube video category classifier as part of a larger
 team system that includes sentiment analysis and LLM-based report generation.
+## Model Performance Summary
+- TF-IDF Baseline Accuracy: ~0.58  
+  - Strong performance on short text (title, tags)  
+  - Limited performance on minority classes  
+## Improved Multilingual BERT Accuracy: ~0.57  
+  - Significant improvement from initial 0.49 accuracy  
+  - Better recall for minority categories due to oversampling  
