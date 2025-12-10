@@ -20,6 +20,13 @@ Required libraries:
 - datasets
 - scikit-learn
 - imbalanced-learn
+  
+## Team Integration
+This classifier is used as the category prediction component in our full project pipeline.
+It connects with:
+- Sentiment Analysis Module
+- LLM-based Final Report Generator
+  
 ## Project Purpose
 This project aims to build an automatic YouTube video category classifier as part of a larger
 team system that includes sentiment analysis and LLM-based report generation.
