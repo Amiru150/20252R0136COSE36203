@@ -13,3 +13,10 @@ It includes the final code, dataset, and experiment results used for the team pr
 ## Dataset Description
 The dataset contains YouTube video metadata including title, description, tags, and category ID.  
 After preprocessing and mapping, a total of 11 category groups were used for classification.
+## Running Environment
+This code is designed to run in Google Colab using GPU.
+Required libraries:
+- transformers
+- datasets
+- scikit-learn
+- imbalanced-learn
