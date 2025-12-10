@@ -20,3 +20,6 @@ Required libraries:
 - datasets
 - scikit-learn
 - imbalanced-learn
+## Project Purpose
+This project aims to build an automatic YouTube video category classifier as part of a larger
+team system that includes sentiment analysis and LLM-based report generation.
